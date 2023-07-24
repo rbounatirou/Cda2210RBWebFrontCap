@@ -1,0 +1,7 @@
+main ul > li > ol{
+    padding-left: 4rem;
+}
+
+main ul{
+    text-align: left;
+}

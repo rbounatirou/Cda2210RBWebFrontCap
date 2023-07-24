@@ -1,0 +1,164 @@
+:root{
+    --primary: #0065d1;
+    --secondary: #9bc9f7;
+    --table-lines: #6d6767;
+    --button-color: #ffc107;
+    --table-border-line: 0.1rem solid black;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    margin: 0;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
+
+main{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    min-height: 80vh;
+}
+
+main > section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+ /* HEADER */
+ header, footer{
+    background-color: var(--primary);
+    color: #ffffff;
+    padding: 1rem;
+    min-height: 10vh;
+}
+
+#espacenavigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* NAVIGATION */
+#navigation > menu {
+    list-style: none;
+}
+
+#navigation > menu > li{
+    margin-right: 1rem;
+}
+
+#navigation >  menu > li{
+    display: inline;
+    padding: .5rem;    
+}
+
+#navigation > menu > li > a{
+    text-decoration: none;
+    
+}
+
+#navigation > menu > li:not(#accessibility) > a{
+    color: white;
+}
+
+
+#espacenavigation > fieldset {
+    text-align: center;
+    display: flex;
+}
+
+/* RECHERCHE */
+#espacenavigation > fieldset > *{    
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#liencontenu{
+    text-decoration: none;
+    color: white;
+}
+
+/* PETIS ELEMENTS */
+#searchbt{
+    background-color: var(--button-color);
+    padding: .5rem;
+    border-radius: .5rem;
+}
+
+#accessibility > div{
+    display: inline;
+}
+
+/* FOOTER */
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* LOGO */
+
+#logo{
+    width: 5rem;
+    height: 5rem;
+}
+
+#logo > img{
+    width: 100%;
+    height: 100%;
+}
+
+/* INFOBULLES */
+.infobulle{
+    position: relative;
+    cursor: help;
+    border-bottom: 1px dotted black;
+    
+    
+}
+
+
+.infobulle:hover::after,
+.infobulle:focus::after{
+    content: attr(aria-label);
+    position: absolute;
+    top: 1.4rem;
+    width: 20rem;
+    left: 0%;
+    z-index: 1;
+    white-space: no-wrap;
+    background-color: aquamarine;
+    border-radius: .5rem;
+    border: 1px solid rgba(0,0,0,0.4);
+    padding: 0.5rem;
+}
+

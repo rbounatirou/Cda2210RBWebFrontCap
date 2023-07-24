@@ -1,0 +1,136 @@
+{
+  "termes": [
+    {
+      "terme": "Accessibilité",
+      "definition": "L'accessibilité désigne la pratique d'assurer que les produits, les services, les contenus et les environnements numériques sont utilisables par tous, y compris les personnes en situation de handicap."
+    },
+    {
+      "terme": "Handicap",
+      "definition": "Le handicap se réfère à toute limitation ou restriction d'activités et de participation sociale résultant d'une altération fonctionnelle ou d'une déficience physique, mentale, cognitive ou sensorielle."
+    },
+    {
+      "terme": "Contraste",
+      "definition": "Le contraste se réfère à la différence de luminosité et de couleur entre les éléments visuels, tels que le texte et l'arrière-plan. Un bon contraste est essentiel pour une lisibilité optimale, en particulier pour les personnes ayant une déficience visuelle."
+    },
+    {
+      "terme": "Aria",
+      "definition": "ARIA (Accessible Rich Internet Applications) est une spécification du W3C qui fournit des attributs et des rôles supplémentaires pour améliorer l'accessibilité des applications web."
+    },
+    {
+      "terme": "Clavier",
+      "definition": "L'interaction au clavier fait référence à l'utilisation des touches du clavier pour naviguer, interagir et contrôler un contenu ou une application numérique, ce qui est essentiel pour les personnes qui ne peuvent pas utiliser une souris ou un dispositif de pointage similaire."
+    },
+    {
+      "terme": "Audiodescription",
+      "definition": "L'audiodescription consiste en une narration audio qui décrit les éléments visuels non verbaux tels que les actions, les expressions faciales et les décors d'une production audiovisuelle, pour les personnes ayant une déficience visuelle."
+    },
+    {
+      "terme": "Champ de saisie",
+      "definition": "Un champ de saisie est une zone interactive où les utilisateurs peuvent entrer des informations, telles que du texte ou des données. Il doit être accessible via le clavier et fournir des indications claires sur ce qui est attendu."
+    },
+    {
+      "terme": "Contenu alternatif",
+      "definition": "Le contenu alternatif fait référence à des alternatives fournies pour les éléments non textuels tels que les images, les vidéos et les sons. Cela permet aux personnes ayant une déficience visuelle ou auditive d'accéder à l'information équivalente."
+    },
+    {
+      "terme": "Navigation",
+      "definition": "La navigation se réfère à la manière dont les utilisateurs se déplacent et accèdent aux différentes parties d'un site web ou d'une application. Une navigation bien conçue et accessible facilite l'orientation des utilisateurs."
+    },
+    {
+      "terme": "Focus",
+      "definition": "Le focus indique l'élément actuellement sélectionné et actif sur une page web ou dans une application. Il est important de le rendre clairement visible pour les utilisateurs qui naviguent au clavier."
+    },
+    {
+      "terme": "JavaScript accessible",
+      "definition": "Le JavaScript accessible fait référence à l'utilisation de JavaScript de manière à ce qu'il n'entrave pas l'accessibilité d'un site web ou d'une application. Cela inclut l'assurance de la compatibilité avec les technologies d'assistance et la prise en compte des bonnes pratiques d'accessibilité."
+    },
+    {
+      "terme": "Langage des signes",
+      "definition": "Le langage des signes est une langue visuelle utilisée par les personnes sourdes ou malentendantes pour communiquer. Les vidéos avec interprétation en langue des signes peuvent rendre le contenu accessible à ces utilisateurs."
+    },
+    {
+      "terme": "Lisibilité",
+      "definition": "La lisibilité se réfère à la facilité avec laquelle un texte peut être lu et compris. Des facteurs tels que la taille de police, l'espacement des lignes et la mise en forme influencent la lisibilité d'un contenu."
+    },
+    {
+      "terme": "Média alternatif",
+      "definition": "Les médias alternatifs désignent les alternatives fournies pour les contenus multimédias, tels que les transcriptions pour les vidéos ou les descriptions textuelles pour les images. Cela permet aux utilisateurs ayant des limitations sensorielles d'accéder à l'information."
+    },
+    {
+      "terme": "Mode de lecture",
+      "definition": "Le mode de lecture est une fonctionnalité qui permet aux utilisateurs d'adapter la présentation du contenu pour une meilleure lisibilité. Cela peut inclure l'augmentation de la taille du texte, le changement de couleur d'arrière-plan et la modification de la police."
+    },
+    {
+      "terme": "Navigation par tabulation",
+      "definition": "La navigation par tabulation consiste à utiliser la touche de tabulation du clavier pour se déplacer séquentiellement entre les éléments interactifs d'une page web ou d'une application. Cela facilite la navigation au clavier et est essentiel pour les personnes ayant des difficultés à utiliser une souris."
+    },
+    {
+      "terme": "PDF accessible",
+      "definition": "Un PDF accessible est un fichier PDF conçu de manière à ce qu'il puisse être lu et compris par les personnes ayant une déficience visuelle ou d'autres limitations. Cela implique l'utilisation de balises structurantes, de descriptions alternatives et d'autres techniques d'accessibilité."
+    },
+    {
+      "terme": "Police de caractères",
+      "definition": "Une police de caractères est un ensemble de caractères typographiques avec des styles, des tailles et des attributs spécifiques. Le choix d'une police appropriée est important pour assurer une lisibilité optimale pour tous les utilisateurs."
+    },
+    {
+      "terme": "Principes de l'accessibilité",
+      "definition": "Les principes de l'accessibilité sont des directives générales qui guident la conception et le développement d'un contenu ou d'une application accessible. Ils comprennent des principes tels que la percevabilité, l'utilisabilité, la compréhension et la robustesse."
+    },
+    {
+      "terme": "Redimensionnement du texte",
+      "definition": "Le redimensionnement du texte fait référence à la possibilité pour les utilisateurs d'ajuster la taille du texte à l'écran en fonction de leurs préférences ou de leurs besoins. Cela permet une meilleure lisibilité pour les personnes ayant une déficience visuelle."
+    },
+    {
+      "terme": "Sémantique",
+      "definition": "La sémantique se réfère à l'utilisation appropriée des éléments HTML pour décrire la structure et le contenu d'une page web. Une utilisation correcte des balises sémantiques améliore l'accessibilité et facilite la compréhension du contenu par les technologies d'assistance."
+    },
+    {
+      "terme": "Structure du document",
+      "definition": "La structure du document fait référence à l'organisation logique et hiérarchique du contenu d'une page web ou d'un document. Une structure bien définie facilite la navigation et la compréhension du contenu, en particulier pour les technologies d'assistance."
+    },
+    {
+      "terme": "Styles alternatifs",
+      "definition": "Les styles alternatifs permettent aux utilisateurs de personnaliser l'apparence d'un site web ou d'une application en modifiant les couleurs, les polices et d'autres éléments visuels. Cela peut aider les personnes ayant des besoins spécifiques en matière de vision ou de lisibilité."
+    },
+    {
+      "terme": "Technologies d'assistance",
+      "definition": "Les technologies d'assistance sont des outils logiciels ou matériels conçus pour aider les personnes ayant des limitations fonctionnelles à interagir avec les ordinateurs et les technologies numériques. Cela peut inclure des lecteurs d'écran, des claviers adaptés et d'autres dispositifs spécialisés."
+    },
+    {
+      "terme": "Texte alternatif",
+      "definition": "Le texte alternatif est une description textuelle fournie pour les images, les graphiques ou d'autres éléments non textuels. Il est utilisé par les technologies d'assistance pour rendre l'information visuelle accessible aux personnes ayant une déficience visuelle."
+    },
+    {
+      "terme": "Transcriptions",
+      "definition": "Les transcriptions sont des versions écrites du contenu audio ou vidéo, fournissant un texte accessible aux personnes ayant une déficience auditive ou qui préfèrent lire plutôt qu'écouter. Les transcriptions doivent être synchronisées avec le contenu multimédia correspondant."
+    },
+    {
+      "terme": "Validation de l'accessibilité",
+      "definition": "La validation de l'accessibilité est le processus de vérification d'un contenu ou d'une application pour s'assurer qu'ils respectent les normes et les bonnes pratiques en matière d'accessibilité. Cela peut être effectué à l'aide d'outils automatisés et de tests manuels."
+    },
+    {
+      "terme": "Vue en mode sombre",
+      "definition": "La vue en mode sombre est une fonctionnalité qui inverse les couleurs d'un site web ou d'une application pour améliorer la lisibilité dans des conditions de faible luminosité ou pour les personnes ayant des sensibilités visuelles particulières."
+    },
+    {
+      "terme": "WAI-ARIA",
+      "definition": "WAI-ARIA (Web Accessibility Initiative - Accessible Rich Internet Applications) est une spécification du W3C qui fournit des attributs et des rôles supplémentaires pour décrire de manière plus précise l'interface utilisateur et améliorer l'accessibilité des applications web."
+    },
+    {
+      "terme": "Zoom de la page",
+      "definition": "Le zoom de la page est une fonctionnalité qui permet aux utilisateurs d'agrandir ou de réduire la taille de la page entière, y compris le texte et les éléments visuels. Cela peut être utile pour les personnes ayant une déficience visuelle ou des difficultés de lecture."
+    },
+    {
+      "terme": "Normes d'accessibilité",
+      "definition": "Les normes d'accessibilité sont des lignes directrices et des règles établies pour garantir que les produits numériques respectent les principes et les bonnes pratiques en matière d'accessibilité. Elles peuvent varier en fonction du pays ou de l'organisation qui les établit."
+    },
+    {
+      "terme": "Adaptabilité",
+      "definition": "L'adaptabilité se réfère à la capacité d'un contenu ou d'une application à s'ajuster et à fonctionner de manière optimale sur différents dispositifs, tailles d'écran et configurations. Cela permet aux utilisateurs d'accéder et d'interagir avec le contenu de manière efficace, quel que soit leur environnement."
+    },
+    {
+      "terme": "Réactivité",
+      "definition": "La réactivité se réfère à la capacité d'un site web ou d'une application à s'adapter et à réagir aux actions et aux interactions des utilisateurs de manière fluide et sans délai. Cela améliore l'expérience utilisateur et facilite l'interaction sur différents appareils et tailles d'écran."
+    }
+  ]
+}
