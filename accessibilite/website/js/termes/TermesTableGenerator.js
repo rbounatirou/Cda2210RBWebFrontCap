@@ -25,7 +25,7 @@ class TermesTableGenerator{
         table.classList.add('tableaupresentation');
         table.id = "termesTable";
         let caption = document.createElement('caption');
-        caption.innerHTML = "Les termes de l'accessibilite";
+        caption.innerHTML = "Les termes de l'accessibilité numérique";
         table.appendChild(caption);
         table.appendChild(this.generateTHead());
         table.appendChild(this.generateTBody());

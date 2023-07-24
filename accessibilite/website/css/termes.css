@@ -5,3 +5,11 @@
 #termesTable{
     margin: 1rem;
 }
+
+#termesTable > tbody > tr:nth-child(2n) > td:nth-child(2n){
+    background-color: lightgray;
+}
+
+#termesTable > tbody > tr:nth-child(2n+1) > td:nth-child(2n+1){
+    background-color: lightgray;
+}
